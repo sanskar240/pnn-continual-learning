@@ -2,7 +2,9 @@
 
 **Zero Forgetting. 100% on Moons after learning Circles.**
 
-Trained in **< 2 minutes** on **Google Colab T4 GPU**.
+<img width="1000" height="400" alt="decision_boundary_plots" src="https://github.com/user-attachments/assets/ab7df5e9-befe-4f55-8eee-868da9ad00bb" />
+
+
 
 ---
 
@@ -15,7 +17,7 @@ Trained in **< 2 minutes** on **Google Colab T4 GPU**.
 
 ---
 
-## Training Log (Your Run)
+## Training Log 
 
 ```text
 Training Task 0 (Moons)...
